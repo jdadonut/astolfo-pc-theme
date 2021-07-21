@@ -1,0 +1,9 @@
+{
+    "name": "Astolfo",
+    "description": "Pink theme #9002 with an astolfo background",
+    "version": "1.0.0",
+    "license": "DBAD w/ no liability",
+    "theme": "astolfo.theme.css",
+    "consent": "false",
+    "author": "Jai L. (jai#0001)"
+}
